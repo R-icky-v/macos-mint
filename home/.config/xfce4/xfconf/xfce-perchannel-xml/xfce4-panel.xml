@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="empty"/>
+  <property name="panels" type="empty">
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="empty"/>
+      <property name="position-locked" type="empty"/>
+      <property name="size" type="uint" value="28"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-alpha" type="uint" value="80"/>
+      <property name="enter-opacity" type="empty"/>
+      <property name="leave-opacity" type="empty"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="13"/>
+      </property>
+      <property name="dark-mode" type="bool" value="false"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.95999999999999996"/>
+        <value type="double" value="0.95999999999999996"/>
+        <value type="double" value="0.96999999999999997"/>
+        <value type="double" value="0.34999999999999998"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="empty">
+      <property name="favorites" type="array">
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="thunderbird.desktop"/>
+        <value type="string" value="pix.desktop"/>
+        <value type="string" value="org.gnome.Rhythmbox3.desktop"/>
+        <value type="string" value="org.gnome.Calculator.desktop"/>
+        <value type="string" value="mintinstall.desktop"/>
+        <value type="string" value="xfce4-taskmanager.desktop"/>
+      </property>
+      <property name="recent" type="array">
+        <value type="string" value="xfce4-terminal.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="mintsysadm.desktop"/>
+        <value type="string" value="xfce4-screenshooter.desktop"/>
+        <value type="string" value="gufw.desktop"/>
+        <value type="string" value="com.microsoft.VSCode.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="timeshift-gtk.desktop"/>
+        <value type="string" value="mintupdate.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-2" type="empty"/>
+    <property name="plugin-3" type="empty">
+      <property name="items" type="array">
+        <value type="string" value="17935974171.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-4" type="empty">
+      <property name="items" type="array">
+        <value type="string" value="17935974172.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-5" type="empty">
+      <property name="items" type="array">
+        <value type="string" value="17935974173.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-6" type="empty">
+      <property name="show-handle" type="empty"/>
+      <property name="middle-click" type="empty"/>
+    </property>
+    <property name="plugin-7" type="empty">
+      <property name="expand" type="empty"/>
+      <property name="style" type="empty"/>
+    </property>
+    <property name="plugin-8" type="empty">
+      <property name="icon-size" type="int" value="16"/>
+      <property name="names-visible" type="empty"/>
+      <property name="show-frame" type="empty"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="mintupdate.py"/>
+        <value type="string" value="miniaplicación gestor de la red"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
+      </property>
+    </property>
+    <property name="plugin-9" type="empty"/>
+    <property name="plugin-10" type="empty"/>
+    <property name="plugin-11" type="empty"/>
+    <property name="plugin-12" type="empty">
+      <property name="enable-keyboard-shortcuts" type="empty"/>
+      <property name="enable-mpris" type="empty"/>
+      <property name="mixer-command" type="empty"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="firefox"/>
+    </property>
+    <property name="plugin-13" type="empty">
+      <property name="digital-time-format" type="string" value="%a %d %b  %H:%M"/>
+      <property name="digital-layout" type="empty"/>
+      <property name="digital-date-font" type="empty"/>
+      <property name="digital-time-font" type="string" value="Inter Medium 10"/>
+    </property>
+    <property name="plugin-14" type="empty">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17936305531.desktop"/>
+      </property>
+    </property>
+  </property>
+</channel>

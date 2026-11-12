@@ -1,0 +1,7 @@
+[docks/dock1]
+dock-items=['thunar.dockitem', 'firefox.dockitem', 'code.dockitem', 'xfce4-terminal.dockitem', 'thunderbird.dockitem', 'io.github.celluloid_player.Celluloid.dockitem', 'xviewer.dockitem', 'papelera.dockitem']
+hide-mode='window-dodge'
+icon-size=56
+theme='WhiteSur'
+zoom-enabled=true
+zoom-percent=150

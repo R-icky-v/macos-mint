@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Plank
+Exec=sh -c "sleep 8 && plank >> /tmp/plank-boot.log 2>&1"
+X-GNOME-Autostart-enabled=true

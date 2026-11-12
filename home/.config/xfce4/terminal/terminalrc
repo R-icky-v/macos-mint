@@ -1,0 +1,8 @@
+[Configuration]
+FontName=JetBrains Mono 11
+MiscDefaultGeometry=100x30
+ColorForeground=#000000
+ColorBackground=#ffffff
+ColorCursor=#929292
+ColorBold=#000000
+ColorPalette=#000000;#c91b00;#00c200;#c7c400;#0225c7;#c930c7;#00c5c7;#c7c7c7;#686868;#ff6e67;#5ffa68;#fffc67;#6871ff;#ff77ff;#60fdff;#ffffff

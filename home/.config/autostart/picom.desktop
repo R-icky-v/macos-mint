@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Picom vigilante
+Exec=__HOME__/.local/bin/picom-vigia.sh
+X-GNOME-Autostart-enabled=true
